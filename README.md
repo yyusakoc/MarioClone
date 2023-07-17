@@ -7,6 +7,7 @@
 ![253958688-c74a0819-03b1-404a-90bb-e9e6180055b6](https://github.com/yyusakoc/MarioClone/assets/132925499/2b4a1eee-fdf7-45ce-95df-de22d7492404)
 # OptionsMenu
 ![253958696-36adc541-d4d3-4be2-be7c-17b070db13d4](https://github.com/yyusakoc/MarioClone/assets/132925499/909175d2-fc49-4576-b159-0090bd2be062)
+# YouWinPanel
 ![253953205-127452ea-1a7c-487b-b8e0-1b48b7987d8b](https://github.com/yyusakoc/MarioClone/assets/132925499/23285089-daf1-4156-b360-8dd8b0ff7279)
 ![253950706-3fa70344-8a8d-4f9d-97c9-0404bf7eb318](https://github.com/yyusakoc/MarioClone/assets/132925499/8a88ceea-14d3-449b-88cb-0c16ca753e8a)
 ![253950712-64192830-44e6-4153-b160-a3fbeb2b52f2](https://github.com/yyusakoc/MarioClone/assets/132925499/1f304e0b-cb56-4cf0-a10c-0e61056ff5e2)
